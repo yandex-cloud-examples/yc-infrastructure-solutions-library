@@ -1,6 +1,6 @@
 # Yandex Cloud Infrastructure Solutions Library
 
-**Yandex Cloud Solution Infrastructure Solutions Library** — это набор примеров и рекомендаций, собранных в публичном репозитории на GitHub. Они помогут вам с развёртыванием вашей инфраструктуры в Yandex Cloud.
+**Yandex Cloud Infrastructure Solutions Library** — это набор примеров и рекомендаций, собранных в публичном репозитории на GitHub. Они помогут вам с развёртыванием вашей инфраструктуры в Yandex Cloud.
 
 # Список решений
 
