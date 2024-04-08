@@ -25,4 +25,4 @@
 
 
 # Обратная связь и пожелания
-- Для доработок, указания ошибок и ваших предложений создавайте, пожалуйста, [Issue](https://github.com/yandex-cloud-examples/yc-infrastructure-solutions-library/issues) или [Pull Request](https://github.com/yandex-cloud-examples/yc-infrastructure-solutions-library/pulls) в этом репозитории. 
+- Для доработок, указания ошибок и ваших предложений создавайте, пожалуйста, `Issue` или `Pull Request` в соответствующем репозитории. 
